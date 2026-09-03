@@ -1,0 +1,16 @@
+{
+  "name": "蝈蝈的文言文搭子",
+  "short_name": "文言搭子",
+  "description": "顺序解锁的初中文言文每日精练。零登录零账号，进度保存在本机。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F0E4",
+  "theme_color": "#2C2620",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
